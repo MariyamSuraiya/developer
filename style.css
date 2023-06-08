@@ -1,0 +1,41 @@
+ body {
+    font-family: 'Poppins', sans-serif;
+ }
+
+ h1 {
+    font-size: 40px;
+
+
+ }
+
+ .kk {
+    color: rgb(252, 210, 22);
+ }
+
+ p {
+    font-family: Roboto Condensed;
+    font-weight: 25px;
+ }
+
+ section {
+    display: flex;
+ }
+
+ .me {
+    width: 50%;
+    padding-left: 3%;
+
+ }
+
+ .me img {
+    width: 70%
+ }
+
+ .tt {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(235, 145, 26, 0.877), rgb(209, 111, 65));
+    padding: 12px 20px;
+    border-radius: 7px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+ }
