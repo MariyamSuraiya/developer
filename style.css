@@ -25,15 +25,20 @@
 
  .me {
     width: 50%;
-    padding-left: 5%;
-
+    padding-left: 8%;
+    background-image: url('./images/Circuit d.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 150px;
 
  }
 
  .me img {
-    width: 75%;
+    width: 70%;
 
  }
+
+
 
  .tt {
     text-decoration: none;
@@ -43,4 +48,46 @@
     font-weight: 900;
     color: rgb(255, 255, 255);
 
+ }
+
+ .be {
+    background-image: url('./images/Edit image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 140px;
+
+    width: 50%;
+    padding-left: 7%;
+ }
+
+ .love {
+    background-image: url('./images/Editing.png');
+    background-repeat: no-repeat;
+    background-position-y: 100%;
+    background-position-x: right;
+    background-size: 160px;
+    height: 460px;
+    width: 50%;
+    padding-right: 15%;
+ }
+
+ .he {
+    background-image: url('./images/Double circle.png');
+    background-size: 90px;
+    background-repeat: no-repeat;
+    width: 50%;
+    padding-left: 9%;
+
+ }
+
+ .he img {
+    width: 80%;
+ }
+
+
+
+ .bo {
+    text-decoration: none;
+    color: rgb(247, 139, 15);
+    text-emphasis: 10px;
  }
